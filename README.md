@@ -36,7 +36,4 @@ A minimal REST API built using FastAPI, SQLAlchemy, and PostgreSQL.
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 
-{
-  "key": "f49ffe091817532bafbf25bd98b906d6efe7cf2671ab135aac2886f01dcc8985",
-  "created_at": "2026-01-04T12:21:54.133961"
-}
+Sample API Key: f49ffe091817532bafbf25bd98b906d6efe7cf2671ab135aac2886f01dcc8985
